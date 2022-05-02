@@ -1,0 +1,2 @@
+SHELL_FILE_PATH=~/
+SHELL_FILE_NAME=rick_roll.sh
